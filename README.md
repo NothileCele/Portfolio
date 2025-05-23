@@ -8,7 +8,7 @@
 
 ## 1. Career Counselling  
 ### Evidence  
-- ![Career Counselling](careerDevelopment.png) 
+- ![Career Counselling](careerdevelopment.png) 
 
 ### Reflection  
 **Situation:** I completed a career counselling module as part of this module to identify suitable career paths.  
