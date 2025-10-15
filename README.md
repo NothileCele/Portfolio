@@ -66,3 +66,60 @@
 
 ---
 
+## 6. Business Communication
+### Evidence  
+- ![Business Communication Evidence](businessCommunication.png)
+
+### Reflection   
+**Situation:** I completed the business communication module to improve my professional interactions.  
+**Task:** I needed to learn how to communicate effectively in workplace settings, including emails and meetings.  
+**Action:** I practiced writing professional emails, learned about tone and structure, and participated in communication exercises.  
+**Result:** I now feel more confident writing professional communications and understand the importance of clear business language.  
+
+---
+
+## 7. Interview Skills
+### Evidence  
+- ![Interview Skills Evidence](interviewSkills.png)
+
+### Reflection   
+**Situation:** I completed interview skills training to prepare for job interviews.  
+**Task:** The goal was to learn how to answer common interview questions effectively.  
+**Action:** I practiced answering behavioral questions, researched company backgrounds, and prepared my own questions to ask interviewers.  
+**Result:** I feel much more prepared for real interviews and I now understand how to structure my answers using examples.  
+
+---
+
+## 8. Mock Interview
+### Evidence  
+- ![Watch my Mock Interview video](MockFinal.mp4)
+
+### Reflection  
+**Situation:** I participated in a mock interview as practice for real job interviews.  
+**Task:** I had to treat it like a real interview and demonstrate my skills and knowledge.  
+**Action:** I dressed professionally, researched common interview questions, and answered them using the STAR technique I learned.  
+**Result:** I received feedback on my strengths and areas to improve, which will help me in actual interviews.  
+
+---
+
+## 9. Professional Networking
+### Evidence  
+- ![Professional Networking Evidence](professionalNetworking.png)
+
+### Reflection   
+**Situation:** In this module I learned about professional networking and how to build industry connections.  
+**Task:** I needed to understand how to network effectively both online and in person.  
+**Action:** I created/updated my LinkedIn profile, attended networking event, and learned networking etiquette.  
+**Result:** I now have a professional online presence and understand how to make meaningful career connections.  
+
+---
+
+## 10. Workplace Etiquette
+### Evidence  
+- ![Workplace Etiquette Evidence](workplaceEtiquette.png)
+
+### Reflection  
+**Situation:** In this module I had to complete training on workplace etiquette and professional behavior.  
+**Task:** I needed to learn appropriate conduct in professional environments.  
+**Action:** I studied topics like punctuality, dress code, communication with colleagues, and meeting etiquette.  
+**Result:** I now understand professional workplace expectations and feel prepared to conduct myself appropriately in any job setting.  
