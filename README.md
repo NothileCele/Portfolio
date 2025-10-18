@@ -91,8 +91,8 @@
 ---
 
 ## 8. Mock Interview
-### Evidence  
-- ![Watch my Mock Interview video](https://www.dropbox.com/scl/fi/nn0e00sruigbev8kxdtvu/MockInterview1-Converted.mkv?rlkey=qp5l802b9db6tbiyo6ftcc4g1&st=0ybtaj95&dl=0)
+### Evidence
+- [🎥 Watch my Mock Interview video](https://www.dropbox.com/scl/fi/nn0e00sruigbev8kxdtvu/MockInterview1-Converted.mkv?rlkey=qp5l802b9db6tbiyo6ftcc4g1&st=0ybtaj95&dl=0)
 
 ### Reflection  
 **Situation:** I participated in a mock interview as practice for real job interviews.  
